@@ -51,3 +51,9 @@ Now Jupyter has a kernel dedicated to the environment.
 If you want also to install torch, you need to run this line (only for cpu)
 
 ```pip install torch==1.3.1+cpu torchvision==0.4.2+cpu -f https://download.pytorch.org/whl/torch_stable.html```
+
+
+
+## Pre-Trained LSTM Generative models
+
+You can find the pre-trained models on this [link](https://drive.google.com/open?id=17uoesn_W1MwqIPonfmVGnD5qu0LfXh00)
